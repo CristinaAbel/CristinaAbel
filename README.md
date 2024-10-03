@@ -1,5 +1,5 @@
 <!-- Header com efeito de onda -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#8A9A5B&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <!-- Texto de boas-vindas com animação -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=50C878&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+CRISTINA+ABEL+DE+OLIVEIRA;I+am+a+Tech+Support+and+Admin+Professional;I+am+passionate+about+technology+and+problem-solving;Welcome!+:%29)](https://git.io/typing-svg)
@@ -85,4 +85,4 @@
 </div>
 
 <!-- Footer com efeito de onda -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#8A9A5B&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
